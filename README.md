@@ -61,4 +61,4 @@ Feel free to explore the app, add new students, update their details, and remove
 
 Happy managing! :smile:
 
-It's was my really first Django app thanks to : \*\*Bob's Programming --> [Video](https://www.youtube.com/watch?v=EUMpUUXKvP0&list=PL_COGr0ge-poGQY4ZMwe6Bkt-0QQuvmMk&index=6)
+It's was my really first Django app thanks to : \*\*Bob's Programming -->** [Video](https://www.youtube.com/watch?v=EUMpUUXKvP0&list=PL_COGr0ge-poGQY4ZMwe6Bkt-0QQuvmMk&index=6)
